@@ -29,4 +29,4 @@ Aprende programación paso a paso con ejemplos claros, visuales y bien comentado
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tuusuario/codecrab.git
+git clone https://github.com/ArturoPaniagua-portfolio/Youtube-CodeCrab-Guides.git
